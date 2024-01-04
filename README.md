@@ -1,4 +1,4 @@
-install:
+-- Install:
 
 pip install pygame
 
@@ -7,8 +7,6 @@ pip install torch torchvision
 pip install matplotlib ipython
 
 
--- Activate:
-
-conda activate pFinal
+-- Execute:
 
 python qLearningAgent.py
